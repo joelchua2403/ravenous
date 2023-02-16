@@ -1,6 +1,6 @@
 This project was created with React.
 It is a Yelp clone with utilizes Yelp API call. 
-This project was created as part of the create a fornt-end app with React - codecademy skill path. 
+This project was created as part of the create a front-end app with React - codecademy skill path. 
 
 
 # Getting Started with Create React App
